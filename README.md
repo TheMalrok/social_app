@@ -1,6 +1,14 @@
 # social_app
 
-My social media app
+My social media app using some external packages like:
+NiceButtons
+GetX for navigation
+auto_size_text_field for text fields. 
+
+
+Trying to learn some flutter and UI desinging. 
+will add some rest api requests and async tasks later, (or already added when you read this)
+
 
 ## Getting Started
 
